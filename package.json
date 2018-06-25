@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imanland/scrape-the-news.git"
+    "url": "git+https://imanland.github.io/scrape-the-news/"
   },
   "keywords": [],
   "author": "Iman Eltayeb",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/imanland/scrape-the-news/issues"
+    "url": "https://imanland.github.io/scrape-the-news//issues"
   },
-  "homepage": "https://github.com/imanland/scrape-the-news#readme",
+  "homepage": "https://imanland.github.io/scrape-the-news/#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
     "cheerio": "^0.22.0",
@@ -31,3 +31,4 @@
     "node": "6.11.1"
   }
 }
+
